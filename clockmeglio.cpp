@@ -1,12 +1,4 @@
-// Author: Wes Kendall
-// Copyright 2011 www.mpitutorial.com
-// This code is provided freely with the tutorials on mpitutorial.com. Feel
-// free to modify it for your own use. Any distribution of the code must
-// either provide a link to www.mpitutorial.com or keep this header intact.
-//
-// MPI_Send, MPI_Recv example. Communicates the number -1 from process 0
-// to process 1.
-//
+
 #include <iostream>
 #include <stdio.h>      /* printf, scanf, puts, NULL */
 #include <stdlib.h>     /* srand, rand */
